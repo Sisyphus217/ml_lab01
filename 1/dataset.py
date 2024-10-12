@@ -22,6 +22,7 @@ def main(
         if i == 5:
             logger.info("Something happened for iteration 5.")
     logger.success("Processing dataset complete.")
+    print("Third hello world")
     # -----------------------------------------
 
 
